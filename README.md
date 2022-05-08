@@ -2,7 +2,8 @@
 # Yatube API
 
 Простой API для нашей платформы мини-блогов Yatube.
-***
+
+
 ### Как запустить проект:
 
 Клонировать репозиторий и перейти в него в командной строке:
@@ -46,7 +47,9 @@ python manage.py migrate
 ```bash
 python manage.py runserver
 ```
-## Примеры работы с API
+
+
+## API Reference
 
 #### Получить все посты
 
@@ -68,6 +71,16 @@ python manage.py runserver
 | :-------- | :------- | :-------------------------------- |
 | `text`      | `string` | **Required**. Текст поста |
 
+
+
+
+## Tech Stack
+
+[Django](https://github.com/django/django)
+
+[Django REST framework](https://github.com/encode/django-rest-framework)
+
+[djoser](https://github.com/sunscrapers/djoser)
 
 
 
