@@ -9,7 +9,7 @@
 Клонировать репозиторий и перейти в него в командной строке:
 
 ```bash
-git clone https://github.com/KapkaDibab/api_final_yatube.git
+git clone https://github.com/Esedess/api_final_yatube.git
 ```
 
 ```bash
@@ -87,6 +87,6 @@ python manage.py runserver
 ## Авторы
 
 - [@yandex-praktikum](https://github.com/yandex-praktikum)
-- [@KapkaDibab](https://github.com/KapkaDibab)
+- [@Esedess](https://github.com/Esedess)
 
 
